@@ -10,13 +10,13 @@ const Hero = () => {
             <h1 className='text-3xl font-semibold'>Make Your Day Good With Rutaush</h1>
             <p className=''>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam beatae voluptatum perferendis modi corrupti veniam aut ex dicta quam deleniti labore, fugiat architecto, nemo animi quae sequi quidem exercitationem dolorem.</p>
         <div className='flex gap-4 items-center md:justify-start justify-center'>
-            <button className='primary-btn'> Order Now </button>
-            <button className='secondary-btn'>About Us</button>
+            <button className='primary-btn hover:scale-105 duration-200'> Order Now </button>
+            <button className='secondary-btn hover:scale-105 duration-200'>About Us</button>
         </div>
         </div>
         {/* image section */}
         <div className='flex flex-col justify-center'>
-            <img src={HeroImage} alt=""  className='img-shadow '/>
+            <img src={HeroImage} alt=""  className='img-shadow animate-spin-slow'/>
         </div>
       </div>
     </div>

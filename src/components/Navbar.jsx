@@ -21,7 +21,7 @@ const Navbar = () => {
         {/*Login Section */}
         <div className='flex gap-4 items-center'>
           <img src={Profile} alt="" className='w-10 rounded-full' />
-          <IoIosArrowDown/>
+          <IoIosArrowDown className='cursor-pointer'/>
         </div>
         </div>
     </div>
