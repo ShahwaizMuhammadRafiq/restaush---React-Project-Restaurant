@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
         {/* image section */}
         <div className='flex flex-col justify-center'>
-            <img src={HeroImage} alt="" />
+            <img src={HeroImage} alt=""  className='img-shadow '/>
         </div>
       </div>
     </div>

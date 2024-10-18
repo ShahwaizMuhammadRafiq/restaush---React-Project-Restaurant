@@ -11,3 +11,9 @@
         @apply bg-gray-300 text-white px-4 py-2 rounded-full font-bold; 
     }
 }
+
+@layer utilities{
+    .img-shadow{
+       filter: drop-shadow(5px 5px 10px rgb(0,0,0,0.3));
+    }
+}
