@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='py-4'>
       <div className="container flex justify-between items-center mx-auto">
         {/* Logo section */}
-        <p className='text-lg font-semibold cursor-pointer'>Res <span className='text-red-500'>taush</span></p>
+        <p className='text-3xl font-bold cursor-pointer'>Res <span className='text-red-500 font-bold'>taush</span></p>
 
         {/* Menu Section */}
         <div className='hidden sm:block gap-8'>
