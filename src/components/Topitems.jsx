@@ -28,8 +28,9 @@ const FoodData = [
 
 ]
 
-const Toplist = () => {
+const Toplist = (props) => {
   return (
+    <div style={{backgroundColor : props.mode ==='light'?'white':'black' }}>
     <div className='container py-14'>
       <div className='text-center mb-12'>
         <h1 className='text-4xl font-semibold'>Top Items</h1>
@@ -48,6 +49,7 @@ const Toplist = () => {
         </div>
         ))}
       </div>
+    </div>
     </div>
   )
 }
