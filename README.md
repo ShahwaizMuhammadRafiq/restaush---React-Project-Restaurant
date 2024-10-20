@@ -9,7 +9,7 @@ You can clone the restaush---React-Project-Restaurant app on GitHub by following
 3.  Choose the cloning method you prefer (HTTPS or SSH) and copy the clone URL.
 4.  Open your terminal or command prompt and navigate to the directory where you want to clone the
 repository.
-5.Thanks For Visit
+5.Thanks For Visit.
 
 This project was Made By [Shahwaiz Muhammad Rafiq](https://github.com/ShahwaizMuhammadRafiq).
 
