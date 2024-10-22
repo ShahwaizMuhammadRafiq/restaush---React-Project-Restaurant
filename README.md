@@ -14,7 +14,7 @@ repository.
 This project was Made By [Shahwaiz Muhammad Rafiq](https://github.com/ShahwaizMuhammadRafiq).
 
 
-# You Can Also Contribute In This Project 
+# You Can Also Contribute In This Project.
 
 
 
